@@ -182,3 +182,6 @@ cython_debug/
 
 # Trae  
 .trae/
+
+# Project files
+Horizon-RaffleBot.md
