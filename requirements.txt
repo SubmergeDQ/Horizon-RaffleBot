@@ -1,0 +1,17 @@
+# 极限竞速地平线6 自动抽奖工具 - 依赖列表
+# 安装命令: pip install -r requirements.txt
+
+# 图像处理与识别
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# 屏幕截图与按键模拟
+PyAutoGUI>=0.9.54
+pyautogui>=0.9.54
+
+# 全局热键监听
+pynput>=1.7.6
+
+# 打包工具（可选，用于生成exe）
+# pyinstaller>=6.0.0
